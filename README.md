@@ -23,3 +23,5 @@
 2. pandas
 
 3. seaborn
+
+4. tqdm
