@@ -17,6 +17,8 @@
 
 6. [autodock-vina 1.2.3](https://pypi.org/project/vina/)
 
+7. [py3dmol 1.8.0](https://anaconda.org/conda-forge/py3dmol)
+
 ### For other parts of the VS pipeline, pre- & post-processing
 1. numpy
 
