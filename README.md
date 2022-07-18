@@ -15,7 +15,7 @@
 
 5. [oddt 0.7](https://github.com/oddt/oddt)
 
-6. [autodock-vina 1.1.2](https://anaconda.org/bioconda/autodock-vina)
+6. [autodock-vina 1.2.3](https://pypi.org/project/vina/)
 
 ### For other parts of the VS pipeline, pre- & post-processing
 1. numpy
