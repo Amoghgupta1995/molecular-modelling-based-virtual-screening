@@ -1,0 +1,91 @@
+# Name: 1QK
+# Created by ModelServer 0.9.9
+
+# model_server_result.job_id: EbAeyg2C-kRyzPwKjOEGwQ
+# model_server_result.datetime_utc: 2022-07-18 07:12:17
+# model_server_result.server_version: 0.9.9
+# model_server_result.query_name: ligand
+# model_server_result.source_id: pdb-bcif
+# model_server_result.entry_id: 4kd1
+
+# model_server_params.name: atom_site
+# model_server_params.value: {"label_asym_id":"C","auth_seq_id":302}
+
+# model_server_stats.io_time_ms: 7
+# model_server_stats.parse_time_ms: 45
+# model_server_stats.create_model_time_ms: 9
+# model_server_stats.query_time_ms: 222
+# model_server_stats.encode_time_ms: 0
+# model_server_stats.element_count: 29
+
+@<TRIPOS>MOLECULE
+1QK
+29 32 1
+****
+****
+
+@<TRIPOS>ATOM
+1 C10 56.233 79.793 27.747 C.ar 1 1QK 0.000
+2 N12 57.793 78.356 29.148 N.pl3 1 1QK 0.000
+3 C13 58.905 79.195 28.861 C.3 1 1QK 0.000
+4 C15 58.684 79.984 31.270 C.ar 1 1QK 0.000
+5 C17 58.764 82.434 31.863 C.ar 1 1QK 0.000
+6 C22 55.564 81.946 25.851 C.3 1 1QK 0.000
+7 C24 53.774 83.675 25.791 C.3 1 1QK 0.000
+8 C26 53.170 81.422 25.961 C.3 1 1QK 0.000
+9 C28 53.137 79.416 24.266 C.3 1 1QK 0.000
+10 C01 52.092 75.409 26.652 C.3 1 1QK 0.000
+11 C02 52.101 76.284 27.910 C.3 1 1QK 0.000
+12 C03 53.531 76.595 28.384 C.ar 1 1QK 0.000
+13 C04 54.336 75.770 29.146 C.ar 1 1QK 0.000
+14 N05 55.555 76.395 29.327 N.ar 1 1QK 0.000
+15 N06 55.494 77.611 28.654 N.ar 1 1QK 0.000
+16 C07 54.273 77.721 28.057 C.ar 1 1QK 0.000
+17 N08 53.915 78.920 27.295 N.ar 1 1QK 0.000
+18 C09 54.926 79.901 27.136 C.ar 1 1QK 0.000
+19 C11 56.525 78.634 28.505 C.ar 1 1QK 0.000
+20 C14 58.887 80.336 29.858 C.ar 1 1QK 0.000
+21 C16 58.622 81.039 32.285 C.ar 1 1QK 0.000
+22 N18 58.965 82.776 30.432 N.ar 1 1QK 0.000
+23 C19 59.018 81.723 29.407 C.ar 1 1QK 0.000
+24 O20 59.075 83.961 30.096 O.3 1 1QK 0.000
+25 N21 54.541 81.045 26.374 N.pl3 1 1QK 0.000
+26 C23 55.179 83.378 26.091 C.3 1 1QK 0.000
+27 C25 52.887 82.770 26.521 C.3 1 1QK 0.000
+28 C27 52.863 80.863 24.596 C.3 1 1QK 0.000
+29 O29 52.424 78.511 25.099 O.3 1 1QK 0.000
+@<TRIPOS>BOND
+1 1 19 ar
+2 1 18 ar
+3 2 19 1
+4 2 3 1
+5 3 20 1
+6 4 20 ar
+7 4 21 ar
+8 5 21 ar
+9 5 22 ar
+10 6 25 1
+11 6 26 1
+12 7 27 1
+13 7 26 1
+14 8 28 1
+15 8 25 1
+16 8 27 1
+17 9 29 1
+18 9 28 1
+19 10 11 1
+20 11 12 1
+21 12 13 ar
+22 12 16 ar
+23 13 14 ar
+24 14 15 ar
+25 15 16 ar
+26 15 19 ar
+27 16 17 ar
+28 17 18 ar
+29 18 25 1
+30 20 23 ar
+31 22 23 ar
+32 22 24 1
+@<TRIPOS>SUBSTRUCTURE
+1 1QK 1
