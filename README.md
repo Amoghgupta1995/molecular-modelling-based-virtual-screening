@@ -27,3 +27,5 @@
 3. seaborn
 
 4. tqdm
+
+5. loguru
